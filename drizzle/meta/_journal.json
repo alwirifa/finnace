@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717317600899,
+      "tag": "0000_workable_johnny_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717340758318,
+      "tag": "0001_moaning_iron_patriot",
+      "breakpoints": true
+    }
+  ]
+}
